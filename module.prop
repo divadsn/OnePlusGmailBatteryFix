@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=OnePlusGmailBatteryFix
+name=OxygenOS Gmail Battery Fix
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=David Sn (@divadsn)
+description=Puts a specific xml file which disables any battery optimization for Gmail on OxygenOS.
